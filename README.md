@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-<title>Conv's Value List</title>
+<title>Nexint's Website</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="/styles.css">
@@ -53,7 +53,7 @@
     </button>
     <div class="content" style="height:200px;">
       <p class="desctext">
-        I'm Conv, you could probably know me as C0NV3RT10N, Bee Swarm enthusiast (If I spelt that correctly)
+        I'm Nexint, a YouTuber, coder, gamer and musician! I currently run a YouTube channel and code some small projects.
       </p>
     </div>
   </div>
